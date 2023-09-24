@@ -1,0 +1,5 @@
+patch:
+  easy_en/use_wordninja_rs_lua_module: true
+  easy_en/wordninja_rs_lua_module_path: "wordninja.dll"
+  engine/filters:
+    - uniquifier
